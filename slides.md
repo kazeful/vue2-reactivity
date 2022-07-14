@@ -15,7 +15,7 @@ title: Vue.js 响应式系统
 ---
 
 # Vue.js v2
-<p>响应式系统</p>
+<h4>响应式系统</h4>
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -24,7 +24,7 @@ title: Vue.js 响应式系统
 </div>
 
 <div class="abs-bl m-6">
-  <div class="mb-3 uppercase tracking-widest font-500"> 张允风 </div>
+  <!-- <div class="mb-3 uppercase tracking-widest font-500"> Wind </div> -->
   <div class="text-md opacity-50">2022-07-11</div>
 </div>
 
@@ -146,7 +146,6 @@ onAchange(() => {
 ```
 ---
 
-#
 <div class="leading-normal">
 再举个更贴合web开发的例子: 
 
@@ -280,8 +279,6 @@ dep.notify()
 autorun函数是接收一个函数，这个函数帮助我们创建一个响应区，当代码放在这个响应区内，就可以通过dep.depend方法注册依赖项
 
 ---
-
-#
 
 <div grid="~ cols-2 gap-4">
 <div>
