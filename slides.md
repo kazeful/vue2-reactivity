@@ -431,7 +431,7 @@ function observe (obj) {
 
 ---
 
-<img src="https://cn.vuejs.org/images/data.png" class="w-200" />
+<img src="https://v2.cn.vuejs.org/images/data.png" class="w-200" />
 
 ---
 
