@@ -436,5 +436,5 @@ function observe (obj) {
 ---
 
 # 参考文献
-- [vue2官方文档](https://cn.vuejs.org/v2/guide/reactivity.html)
+- [vue2官方文档](https://v2.cn.vuejs.org/v2/guide/reactivity.html)
 - [尤雨溪教你写vue](https://www.bilibili.com/video/BV1d4411v7UX?p=2)
